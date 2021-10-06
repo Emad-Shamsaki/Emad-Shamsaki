@@ -1,6 +1,9 @@
 ### Hi there 👋
+
 - 🔭 I’m currently working on my Master Studies about Control Systems Engineering-Machin Learning
 - 👯 I’m looking to collaborate on Computer Vision and Machine Learning projects.
+- 📫 You can contact me via email. 
+
 <!--
 **Emad-Shamsaki/Emad-Shamsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
