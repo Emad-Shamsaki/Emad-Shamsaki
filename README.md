@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I have finished my Master Studies about Control Systems Engineering-Machine Learning
-- 👯 I’m looking to collaborate on Computer Vision, Machine Learning projects, Deep learning, reinfrocement learning, and Control Systems Engineering.
+- 🔭 I have finished my Master Studies about Control Systems Engineering
 - 📫 You can contact me via email: shamsaki.emad@gmail.com
 
 <!--
